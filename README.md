@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning LLMs and Web Development<br>📫 How to reach me: b22cs089@iitj.ac.in<br>⚡ Fun fact: Tech enthusiast, avid reader, aspiring innovator.
+🔭 I’m currently learning LLMs and Web3<br>📫 How to reach me: b22cs089@iitj.ac.in<br>⚡ Fun fact: Tech enthusiast, avid reader, aspiring innovator.
 
 
 ## 🌐 Socials:
